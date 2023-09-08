@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Full stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://rajurangoji.github.io/my-portfolio/](https://rajurangoji.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/rajurangoji](https://github.com/rajurangoji)
 
 - 💬 Ask me about **html,css,javascript,react.js,bootstrap5, node.js and mangodb**
 
 - 📫 How to reach me **rajurangoji58@gmail.com**
 
-- 📄 Know about my experiences [Raju's new Resume (4).pdf](Raju's new Resume (4).pdf)
+- 📄 Know about my experiences [https://rajurangoji.github.io/my-portfolio/](https://rajurangoji.github.io/my-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajurangoji&show_icons=true&locale=en" alt="rajurangoji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajurangoji&" alt="rajurangoji" /></p>
-
-<!---
-rajurangoji/rajurangoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
