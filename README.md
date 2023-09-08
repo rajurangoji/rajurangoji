@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/rajurangoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajurangoji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajurangoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajurangoji" height="30" width="40" /></a>
-<a href="https://instagram.com/jersey_no_58_/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jersey_no_58_/?next=%2f" height="30" width="40" /></a>
+<a href="https://instagram.com/jersey_no_58_?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jersey_no_58_/?next=%2f" height="30" width="40" /></a>
 <a href="https://discord.gg/rajurangoji#8698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rajurangoji#8698" height="30" width="40" /></a>
 </p>
 
