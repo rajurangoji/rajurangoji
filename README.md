@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raju Rangoji</h1>
-<h3 align="center">A aspiring frontend developer from Telangana. I possess a strong command of industry-standard web application development, with a focus on scalability and robustness.</h3>
+<h3 align="center">A aspiring fullstack developer from Telangana. I possess a strong command of industry-standard web application development, with a focus on scalability and robustness.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajurangoji&label=Profile%20views&color=0e75b6&style=flat" alt="rajurangoji" /> </p>
 
