@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajurangoji58@gmail.com**
 
-- 📄 Know about my experiences [https://rajurangoji.github.io/portfolio/](https://rajurangoji.github.io/portfolio/)
+- 📄 Know about my experiences [View Portfolio](https://rajurangoji.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
